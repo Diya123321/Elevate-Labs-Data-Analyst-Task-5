@@ -2,7 +2,7 @@
 <br>
 I have this time worked on Data Visualisation of the most famous dataset of all time "Titanic Dataset" colllected from "Kaggle.com".I tried to gain insights from it as much as possible.It was great working on this dataset 
  as it was a bit easy to visualise it and imagine it .<br>
- **All Insights I gained From the Dataset plot by plot**
+ <h1></h1>All Insights I gained From the Dataset plot by plot
 <br>
 <b>Basic Insights are</b><br>
 The dataset contains 418 rows and 12 columns, representing passengers and their features.<br>Columns include: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked.<br>
