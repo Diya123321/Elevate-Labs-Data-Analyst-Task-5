@@ -24,7 +24,7 @@ There are more males than females.<br>
 Most passengers embarked from Southampton (S).<br>
 
 
-<h3>Insights from Histograms</h3><br><br>
+<h3>Insights from Histograms</h3><br>
 <h4>Age Distribution</h4><br>
 
 The age distribution is slightly right-skewed, with the majority of passengers aged between 20 and 40 years. There are fewer children and elderly passengers.<br>
@@ -36,7 +36,7 @@ The fare distribution is heavily right-skewed, indicating that most passengers p
 <h4>SibSp and Parch<br></h4>
 
 Most passengers traveled alone or with one family member. A few passengers had large families aboard, which is rare and may indicate group bookings.<br><br>
-<h3>Insights from Boxplots</h3><br><br>
+<h3>Insights from Boxplots</h3><br>
 <h4>Age vs. Passenger Class (Pclass)<br></h4>
 
 Passengers in 1st class tend to be older on average than those in 2nd and 3rd classes. This may reflect socioeconomic status.<br>
@@ -48,7 +48,7 @@ Females generally paid higher fares than males, especially with a few female pas
 <h4>Age vs. Survival<br></h4>
 
 Survivors tend to be slightly younger than non-survivors, although outliers exist in both groups. The median age for survivors is lower.<br>
- <h3>Insights from Pairplot</h3><br><br>
+ <h3>Insights from Pairplot</h3><br>
 <h4>Fare and Survival Relationship</h4><br>
 
 In the pairplot, we observe that higher fare-paying passengers had a greater chance of survival, especially those clustered at lower age levels (young 1st-class women and children).<br>
@@ -60,7 +60,7 @@ Passengers with more siblings/spouses or parents/children tend to be younger. Th
 <h4>Clear Separation in Survival Patterns</h4><br>
 
 Some clusters (e.g., high Fare and low Age) appear to correlate with a higher likelihood of survival, showing a pattern of class-based rescue bias.<br>
-<h3>Insights from Scatterplots</h3><br><br>
+<h3>Insights from Scatterplots</h3><br>
 <h4>Age vs. Fare by Survival</h4><br>
 
 Survivors (especially females) are mostly in the low-to-mid age range and paid higher fares, forming a visible upper-left cluster in the plot.<br>
